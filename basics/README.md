@@ -1,4 +1,1 @@
--#!/bin/bash = Esta línea es llamada shebang y se utiliza para indicar el intérprete de comandos que se utilizará para ejecutar el script. En este caso, #!/bin/bash especifica que el intérprete de comandos de Bash será utilizado
--current_directory=$(pwd) = Esta línea utiliza el comando pwd para obtener el directorio de trabajo actual y lo asigna a la variable current_directory utilizando la sintaxis de asignación de variables en Bash. El signo de dólar $ se utiliza para acceder al valor de la variable.
--echo $current_directory = Esta línea utiliza el comando echo para imprimir un mensaje en la salida estándar. El contenido del mensaje es "Current working directory: " seguido del valor de la variable current_directory. Al usar $current_directory, se muestra el valor almacenado en la variable.
-
+Don't try
